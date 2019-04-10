@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private int idNotif = 0;
     private int maxNotif = 2;
 
+    //test
     private List<NotificationItem> stackNotif = new ArrayList<>();
 
     @Override
